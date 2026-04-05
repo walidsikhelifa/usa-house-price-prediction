@@ -149,21 +149,6 @@ This result is particularly interesting because it shows that a well-prepared li
 ## Repository structure
 Recommended structure:
 
-```text
-house-price-prediction/
-├── data/
-│   └── USA Housing Dataset.csv
-├── notebooks/
-│   └── Pred_House_price.ipynb
-├── images/
-│   ├── eda_price_distribution.png
-│   ├── model_comparison.png
-│   ├── overfitting_gap.png
-│   └── real_vs_predicted.png
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
 
 ## How to run
 ```bash
