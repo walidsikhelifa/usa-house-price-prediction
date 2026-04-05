@@ -181,4 +181,4 @@ Then open:
 - deploy the final model with Streamlit
 
 ## Author
-Your name here
+Walid Si khelifa
