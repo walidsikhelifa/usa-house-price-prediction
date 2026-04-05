@@ -174,11 +174,7 @@ jupyter notebook
 Then open:
 - notebooks/Pred_House_price.ipynb
 
-## Future improvements
-- test statezip as an alternative to city
-- add SHAP or coefficient-based interpretability
-- perform more advanced hyperparameter tuning
-- deploy the final model with Streamlit
+
 
 ## Author
 Walid Si khelifa
